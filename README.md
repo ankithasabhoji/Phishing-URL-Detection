@@ -30,6 +30,7 @@ The system analyzes URLs using two detection approaches and combines their resul
 
 ## Project Structure
 
+```text
 Phishing-URL-Detection/
 │
 ├── app.py
@@ -47,7 +48,7 @@ Phishing-URL-Detection/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 
 **Note:** `Phishing.csv` is required to run the application but is not included in this repository.
 
